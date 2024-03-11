@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="launch4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extras/launch4j/launch4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extras/launch4j/xstream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

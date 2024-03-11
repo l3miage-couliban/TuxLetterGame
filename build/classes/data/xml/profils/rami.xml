@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil xmlns="http://myGame/tux">
+<nom>rami</nom>
+<avatar>../images/bear.png</avatar>
+<anniversaire>1999-22-13</anniversaire>
+<parties>
+<partie date="2023-11-28" id="1" trouvé="100%">
+<temps>11</temps>
+<mot niveau="1">tux</mot>
+</partie>
+<partie date="2023-11-28" id="2" trouvé="100%">
+<temps>9</temps>
+<mot niveau="1">Fade</mot>
+</partie>
+<partie date="2023-11-29" id="3" trouvé="30%">
+<temps>20</temps>
+<mot niveau="2">Decaniller</mot>
+</partie>
+<partie date="2023-11-29" id="4" trouvé="31%">
+<temps>20</temps>
+<mot niveau="5">Admonestation</mot>
+</partie>
+<partie date="2023-11-29" id="5" trouvé="100%">
+<temps>11</temps>
+<mot niveau="1">Balle</mot>
+</partie>
+<partie date="2023-11-29" id="6" trouvé="24%">
+<temps>20</temps>
+<mot niveau="5">Admonestation</mot>
+</partie>
+<partie date="2023-11-29" id="7" trouvé="100%">
+<temps>9</temps>
+<mot niveau="1">tux</mot>
+</partie>
+<partie date="2023-11-29" id="8" trouvé="50%">
+<temps>-23</temps>
+<mot niveau="2">Decaniller</mot>
+</partie>
+<partie date="2023-11-30" id="9" trouvé="100%">
+<temps>9</temps>
+<mot niveau="1">pente</mot>
+</partie>
+<partie date="2023-11-30" id="10" trouvé="100%">
+<temps>7</temps>
+<mot niveau="1">fade</mot>
+</partie>
+<partie date="2023-11-30" id="11" trouvé="80%">
+<temps>20</temps>
+<mot niveau="2">Decaniller</mot>
+</partie>
+<partie date="2023-11-30" id="12" trouvé="40%">
+<temps>20</temps>
+<mot niveau="4">épithalame</mot>
+</partie>
+<partie date="2023-12-01" id="13" trouvé="100%">
+<temps>11</temps>
+<mot niveau="1">gateau</mot>
+</partie>
+</parties>
+</profil>

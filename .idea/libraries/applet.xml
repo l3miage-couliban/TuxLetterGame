@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="applet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/applet/lzma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/applet/game3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/applet/lwjgl_util_applet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+--><dictionnaire xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/tux ../xsd/dico.xsd">
+                            
+    
+    
+    
+    
+    
+    <niveau numero="1">
+                                                        
+        
+        
+        
+        
+        
+        <mot>balle</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>mignoter</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>pente</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>fade</mot>
+                  
+        
+        
+        
+        
+        <mot>second</mot>
+                                    
+        
+        
+        
+        <mot>gateau</mot>
+                            
+        
+        
+        <mot>toiture</mot>
+                    
+    
+    </niveau>
+                            
+    
+    
+    
+    
+    
+    <niveau numero="2">
+                                                        
+        
+        
+        
+        
+        
+        <mot>pheromone</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>marmotte</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>decaniller</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>febricule</mot>
+                                                    
+    
+    
+        
+        
+        
+        <mot>casanier</mot>
+                            
+    
+    
+    </niveau>
+                            
+    
+    
+    
+    
+    
+    <niveau numero="3">
+                                                        
+        
+        
+        
+        
+        
+        <mot>macache</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>ébaubi</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>faix</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>galimatias</mot>
+                                                    
+    
+    
+    
+    
+        
+        <mot>brindille</mot>
+            
+        <mot>experimentation</mot>
+    </niveau>
+                            
+    
+    
+    
+    
+    
+    <niveau numero="4">
+                                                        
+        
+        
+        
+        
+        
+        <mot>chattémite</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>épithalame</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>cacostomie</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>oscillation</mot>
+                                                    
+    
+    
+    
+    
+    
+    </niveau>
+                            
+    
+    
+    
+    
+    
+    <niveau numero="5">
+                                                        
+        
+        
+        
+        
+        
+        <mot>ichtyoïde</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>admonestation</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>boustrophedon</mot>
+                                                        
+        
+        
+        
+        
+        
+        <mot>dessiccateur</mot>
+                                                    
+    
+    
+    
+    
+    
+    </niveau>
+                        
+
+
+
+
+
+</dictionnaire>

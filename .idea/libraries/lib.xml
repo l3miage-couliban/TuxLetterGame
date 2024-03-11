@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-plugins.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/nifty-default-controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/rsyntaxtextarea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/xmlpull-xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/j-ogg-oggd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/nifty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/j-ogg-vorbisd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-blender.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/env3d_jme3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/eventbus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-jbullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/stack-alloc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jbullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-jogg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/nifty-style-black.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-niftygui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-terrain.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/bluejext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jME3-desktop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

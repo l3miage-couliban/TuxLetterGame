@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           targetNamespace="http://myGame/tux"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://myGame/tux"
+           elementFormDefault="qualified">
+    <xs:element name="dictionnaire" type="Dico" />
+    
+    <xs:complexType name="Dico">
+        <xs:sequence>
+            <xs:element
+                name="niveau"
+                type="Niveau"
+                minOccurs="5"
+                maxOccurs="unbounded" />
+        </xs:sequence>
+        <xs:attribute name="numero" type="xs:int"/>
+    </xs:complexType>
+    
+    <xs:complexType name="Niveau">
+        <xs:sequence>
+            <xs:element 
+                name="mot" 
+                type="Mot"
+                minOccurs="1"
+                maxOccurs="unbounded" />
+        </xs:sequence>
+        <xs:attribute name="numero" type="xs:int"/>
+    </xs:complexType>
+    
+    <xs:simpleType name="Mot">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Zà-ü\-]{2,}" />
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

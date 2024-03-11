@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1.1.1.Doty" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.3.1.Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.3.2.DotyFeeding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.4.1.Monster_vs_Doty" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.5.1.World_of_Zuul_v1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.5.2.World_of_Zuul_v2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.4.1.Fox_vs_Tux" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.1.1.Terrain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.2.1.Water" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.3.1.Particle.Snow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.4.2.Nifty.Controller" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.4.3.Nifty.GUI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.4.1.Zombie.Hunter" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="env3d_jme3" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="+libs" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+  </component>
+</module>

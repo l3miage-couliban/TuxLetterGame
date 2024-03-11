@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil xmlns="http://myGame/tux">
+<nom>ratal</nom>
+<avatar>../../images/bear.png</avatar>
+<anniversaire>2001-11-20</anniversaire>
+<parties>
+<partie date="2023-12-01" id="1" trouvé="100%">
+<temps>19</temps>
+<mot niveau="2">febricule</mot>
+</partie>
+<partie date="2023-12-01" id="2" trouvé="100%">
+<temps>19</temps>
+<mot niveau="2">febricule</mot>
+</partie>
+<partie date="2023-12-01" id="3" trouvé="100%">
+<temps>20</temps>
+<mot niveau="2">febricule</mot>
+</partie>
+<partie date="2023-12-01" id="4" trouvé="47%">
+<temps>24</temps>
+<mot niveau="3">experimentation</mot>
+</partie>
+<partie date="2023-12-01" id="5" trouvé="100%">
+<temps>9</temps>
+<mot niveau="3">ébaubi</mot>
+</partie>
+</parties>
+</profil>

@@ -1,0 +1,94 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22 oct. 2023, 18:25:00
+    Author     : Nagninimeta
+*/
+
+body {
+    margin: 0px !important;
+}
+
+.avatar {
+    border-radius:50%;
+    width: 200px;
+    height: 200px;
+    background-color: #D2E0FB;
+}
+
+.avatar.y-axis {
+    animation-name: y-axis-animation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F7;
+}
+
+.content {
+    text-align: center;
+    padding: 5px 10px 0 10px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+}
+
+.parties-area {
+    height: 40%;
+    overflow-y: scroll;
+}
+
+.parties-area::-webkit-scrollbar-track
+{
+    border-radius: 10px;
+    background-color: #F5F5F5;
+}
+
+.parties-area::-webkit-scrollbar
+{
+    width: 10px;
+    background-color: #F5F5F5;
+}
+
+.parties-area::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    background-color: #555;
+}
+
+.parties {
+    width: 50vw;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.parties th, td {
+    padding: 8px;
+}
+
+.parties tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+@keyframes y-axis-animation {
+    from {
+        transform: rotateY(10deg)
+    }
+    to {
+        transform: rotateY(-10deg)
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .parties {
+        width: 80vw;
+    }
+}

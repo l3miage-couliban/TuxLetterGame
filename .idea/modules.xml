@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TuxLetterGame_template.iml" filepath="$PROJECT_DIR$/TuxLetterGame_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/lessons/android/android.iml" filepath="$PROJECT_DIR$/examples/lessons/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/android/android1.iml" filepath="$PROJECT_DIR$/examples/android/android1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/lessons/desktop/desktop.iml" filepath="$PROJECT_DIR$/examples/lessons/desktop/desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/examples.iml" filepath="$PROJECT_DIR$/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/scenecreator/scenecreator.iml" filepath="$PROJECT_DIR$/examples/scenecreator/scenecreator.iml" />
+    </modules>
+  </component>
+</project>

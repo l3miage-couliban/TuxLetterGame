@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<schema version="1.0"
+        xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://myGame/tux"
+        xmlns:pr="http://myGame/tux" 
+        
+        elementFormDefault="qualified">
+    
+    
+    <element name="profil" type="pr:Profil"/>
+    
+    
+    <complexType name="Profil">
+        <sequence>
+            <element name="nom" type="string"/>
+            <element name="avatar" type="string"/>
+            <element name="anniversaire" type="date"/>
+            <element name="parties" type="pr:Parties"/>
+        </sequence>
+    </complexType>
+    
+    <complexType name="Parties">
+        <sequence>
+            <element name="partie" type="pr:Partie" minOccurs="0" maxOccurs="unbounded"/>
+        </sequence>
+    </complexType>
+    
+    <complexType name="Partie">
+        <sequence>
+            <element name="temps" type="double"/>
+            <element name="mot" type="pr:Mot"/>
+        </sequence>
+        <attribute name="id" type="int"/>
+        <attribute name="date" type="date"/>
+        <attribute name="trouvé" type="string"/>
+    </complexType>
+    
+    
+    
+    <complexType name="Mot">
+        <simpleContent>
+            <extension base ="pr:Motsimple">
+                <attribute name="niveau" type="int"/>
+            </extension>
+        </simpleContent>
+    </complexType>
+    
+    <simpleType name="Motsimple">
+        <restriction base="string">
+            <pattern value="[a-zA-Zà-ü\-]{2,}" />
+        </restriction>
+    </simpleType>
+    
+
+</schema>

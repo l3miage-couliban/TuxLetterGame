@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil xmlns="http://myGame/tux">
+    <nom>suero</nom>
+    <avatar>../images/bear.png</avatar>
+    <anniversaire>2001-11-20</anniversaire>
+    <parties>
+        <partie id="1" date="2023-11-27" trouvé="100%">
+            <temps>11</temps>
+            <mot niveau="1">Pente</mot>
+        </partie>
+        <partie id="2" date="2023-11-27" trouvé="50%">
+            <temps>20</temps>
+            <mot niveau="3">ebaubi</mot>
+        </partie>
+        <partie id="3" date="2023-11-28" trouvé="100%">
+            <temps>17</temps>
+            <mot niveau="3">macache</mot>
+        </partie>
+        <partie id="4" date="2023-11-28" trouvé="100%">
+            <temps>12</temps>
+            <mot niveau="1">Balle</mot>
+        </partie>
+        <partie id="5" date="2023-11-28" trouvé="75%">
+            <temps>20</temps>
+            <mot niveau="1">Mignoter</mot>
+        </partie>
+        <partie id="6" date="2023-11-28" trouvé="56%">
+            <temps>20</temps>
+            <mot niveau="2">Pheromone</mot>
+        </partie>
+        <partie id="7" date="2023-11-28" trouvé="50%">
+            <temps>20</temps>
+            <mot niveau="4">Epithalame</mot>
+        </partie>
+        <partie id="8" date="2023-11-28" trouvé="42%">
+            <temps>20</temps>
+            <mot niveau="5">Dessiccateur</mot>
+        </partie>
+        <partie id="9" date="2023-11-28" trouvé="63%">
+            <temps>20</temps>
+            <mot niveau="1">Mignoter</mot>
+        </partie>
+    </parties>
+</profil>

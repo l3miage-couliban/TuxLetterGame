@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-niftygui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/ant-launcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/rsyntaxtextarea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/nifty-default-controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/nifty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-lwjgl-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/nifty-style-black.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jMonkeyEngine3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-blender.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/j-ogg-oggd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-jogg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jbullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/j-ogg-vorbisd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-terrain.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-plugins.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-jbullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/eventbus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-networking.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/xmlpull-xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/stack-alloc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/commons-io-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-desktop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jME3-effects.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/bluejext.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="env3d_jme3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/env3d_jme3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
